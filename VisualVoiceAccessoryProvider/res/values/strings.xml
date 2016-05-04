@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VisualVoice</string>
+    
+    <string name="visual_voice">Visual Voice!</string>
+    <string name="ConnectionEstablishedMsg">VisualVoiceAccessory Connection established with RemotePeer</string>
+    
+    <string name="text1">Please speak clearly into the microphone. Speech recognition will show on Gear app.</string>
+    
+</resources>
